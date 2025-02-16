@@ -1,4 +1,4 @@
-## Hi! 👋
+## Welcome! 👋
 
 Coding from Beach is a group for geeks who meet once a month to share and learn about programming, making and hacking on hardware.
 
