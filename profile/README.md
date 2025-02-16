@@ -8,8 +8,8 @@ Coding from Beach meets monthly with a curated program of talks as well as cater
 
 We meetup at the Peregian Hub in the Sunshine coast.
 
-- (Meetup Group)[https://github.com/codingfrombeach]
-- (Discord Server)[https://discord.com/channels/1202481809036673024/1202481809540128780]
-- (Peregian Hub)[https://www.peregianhub.com.au/connect/technologists/]
+- [Meetup Group](https://github.com/codingfrombeach)
+- [Discord Server](https://discord.com/channels/1202481809036673024/1202481809540128780)
+- [Peregian Hub](https://www.peregianhub.com.au/connect/technologists/)
 
 
