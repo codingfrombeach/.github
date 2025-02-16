@@ -12,4 +12,10 @@ We meetup at the Peregian Hub in the Sunshine coast.
 - [Discord Server](https://discord.com/channels/1202481809036673024/1202481809540128780)
 - [Peregian Hub](https://www.peregianhub.com.au/connect/technologists/)
 
+# Repositoris
 
+Our current repositories are:
+
+- [AI Tools](https://github.com/codingfrombeach/ai_tools) - all AI related tools and docs
+
+We welcome contributions and updates! Please fork the repos above and raise a PR (Pull Request)
