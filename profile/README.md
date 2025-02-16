@@ -6,10 +6,10 @@ The purpose of the meetup is to get together, share ideas, best practices, skill
 
 Coding from Beach meets monthly with a curated program of talks as well as catered drinks & pizza.
 
-We meetup at Peregian Hub in the Sunshine coast.
+We meetup at the Peregian Hub in the Sunshine coast.
 
-Head over to our (Meetup Group)[https://github.com/codingfrombeach]
-or our (Discord Server)[]
-or the (peregian digital hub)[https://www.peregianhub.com.au/connect/technologists/]
+- (Meetup Group)[https://github.com/codingfrombeach]
+- (Discord Server)[https://discord.com/channels/1202481809036673024/1202481809540128780]
+- (Peregian Hub)[https://www.peregianhub.com.au/connect/technologists/]
 
-Our github space is to be able to share tools/docs/ideas/projects/tutorials around code. If you wish to contribute please fork a repo and raise a pull request (PR)
+
