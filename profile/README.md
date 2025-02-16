@@ -12,7 +12,7 @@ We meetup at the Peregian Hub in the Sunshine coast.
 - [Discord Server](https://discord.com/channels/1202481809036673024/1202481809540128780)
 - [Peregian Hub](https://www.peregianhub.com.au/connect/technologists/)
 
-# Repositoris
+# Repositories
 
 Our current repositories are:
 
